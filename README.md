@@ -10,6 +10,7 @@ In an attempt to learn ML and enhance our understanding in python, we decided to
 Original Paper - <https://towardsdatascience.com/age-detection-using-facial-images-traditional-machine-learning-vs-deep-learning-2437b2feeab2>  
   
   Datasets -  
+  https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset?  
 https://www.dropbox.com/s/a0lj1ddd54ns8qy/All-Age-Faces%20Dataset.zip?dl=0   
 https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset  
 https://www.kaggle.com/frabbisw/facial-age  
