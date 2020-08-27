@@ -11,7 +11,6 @@ Original Paper - <https://towardsdatascience.com/age-detection-using-facial-imag
   
   Datasets -  
   https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset?  
-https://www.dropbox.com/s/a0lj1ddd54ns8qy/All-Age-Faces%20Dataset.zip?dl=0   
-https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset  
-https://www.kaggle.com/frabbisw/facial-age  
+https://www.dropbox.com/s/a0lj1ddd54ns8qy/All-Age-Faces%20Dataset.zip?dl=0    
+  https://www.kaggle.com/frabbisw/facial-age  
 https://drive.google.com/drive/folders/0BxYys69jI14kU0I1YUQyY1ZDRUE
